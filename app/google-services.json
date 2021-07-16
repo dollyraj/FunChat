@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236874863529",
+    "project_id": "funchat-7f2d7",
+    "storage_bucket": "funchat-7f2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236874863529:android:048dadb3c54c048aef2ab8",
+        "android_client_info": {
+          "package_name": "com.example.funchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236874863529-cdqo79m14n0gtii7geckgaais5rgup03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funchat",
+            "certificate_hash": "8d65326001ded1ea89533e4472b1b283e1b4bbe9"
+          }
+        },
+        {
+          "client_id": "236874863529-f8lfs7nmgqfcgrlil59jskbfa5fvhbui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBP_M1IDtkmxo50Oxa6aZsmbJy862GhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236874863529-f8lfs7nmgqfcgrlil59jskbfa5fvhbui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
